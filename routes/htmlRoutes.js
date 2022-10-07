@@ -1,9 +1,7 @@
-const { appendFile } = require('fs');
 const path = require('path');
 const router = require('express').Router();
 
 
-// Create our routes here
 
 // create route for notes.html
 
