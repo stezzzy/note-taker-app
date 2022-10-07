@@ -1,16 +1,16 @@
 # <note-taker-app>
 
-##Description
+## Description
 
 A simple note taking application deployed on Heroku that utilizes Express JS to connect frontend and backend elements using routes to create a functional, responsive, and dynamically rendering note page.
 
-##Usage
+## Usage
 
 To use locally: Clone repo and install dependencies then run server via node. Once the server is running, visit http://localhost:3001/ via your browser.
 
 To use the deployed application visit: https://note-taker-app-ns.herokuapp.com/
 
-##Preview
+## Preview
 
 Application start page:
 
